@@ -1,0 +1,180 @@
+
+FlappyShip.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 530
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+groundIce
+  rotate: false
+  xy: 1, 474
+  size: 808, 54
+  orig: 808, 54
+  offset: 0, 0
+  index: -1
+textGameOver
+  rotate: false
+  xy: 1, 394
+  size: 412, 78
+  orig: 412, 78
+  offset: 0, 0
+  index: -1
+flappylogo
+  rotate: false
+  xy: 1, 245
+  size: 304, 147
+  orig: 304, 147
+  offset: 0, 0
+  index: -1
+tuto2
+  rotate: false
+  xy: 1, 94
+  size: 274, 149
+  orig: 274, 149
+  offset: 0, 0
+  index: -1
+tuto1
+  rotate: false
+  xy: 803, 786
+  size: 139, 224
+  orig: 139, 224
+  offset: 0, 0
+  index: -1
+pillarUp
+  rotate: false
+  xy: 803, 545
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+pillarDown
+  rotate: false
+  xy: 913, 545
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+shield3
+  rotate: false
+  xy: 307, 255
+  size: 144, 137
+  orig: 144, 137
+  offset: 0, 0
+  index: -1
+shield2
+  rotate: false
+  xy: 811, 424
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+fuelIndicator
+  rotate: false
+  xy: 1, 1
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+shield1
+  rotate: false
+  xy: 453, 364
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+fuel_pickup
+  rotate: false
+  xy: 588, 349
+  size: 111, 123
+  orig: 111, 123
+  offset: 0, 0
+  index: -1
+star_pickup
+  rotate: false
+  xy: 94, 29
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1
+shield_pickup
+  rotate: false
+  xy: 453, 299
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1
+tapLeft
+  rotate: false
+  xy: 701, 430
+  size: 85, 42
+  orig: 85, 42
+  offset: 0, 0
+  index: -1
+tap2
+  rotate: false
+  xy: 944, 951
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+meteor3
+  rotate: false
+  xy: 956, 486
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+meteor2
+  rotate: false
+  xy: 176, 35
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+meteor1
+  rotate: false
+  xy: 701, 371
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+playerShip
+  rotate: false
+  xy: 453, 268
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 277, 221
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: false
+  xy: 415, 450
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+fire4
+  rotate: false
+  xy: 94, 5
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 535, 340
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
